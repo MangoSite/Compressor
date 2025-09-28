@@ -24,7 +24,7 @@ val compressedImageFile = Compressor.compress(context, actualImageFile) {
     destination(myFile)
 }
 
-111111
+followingmangomoney.topexcluding
 ```
 ### I want custom Compressor!
 #### Using default constraint and custom partial of it
